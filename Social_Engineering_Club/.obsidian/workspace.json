@@ -8,7 +8,62 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dffecc60b6e9bcee",
+            "id": "0cadbc4c64355b7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Engineering/Front-end Development/Intro App Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ebe8728dd52c3c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/Digital Hardware Courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c8f50bff8f98a84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hardware/Build a pc/Build a computer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "ddc759898e16dd9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab7734bbf49c87d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Engineering Club.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e90273f45f79625",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,21 +74,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "71429a7a34e3f493",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1e5ebe58f5605497",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -62,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#sofrware",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,12 +204,38 @@
   },
   "active": "5ea3cc0c0d510e90",
   "lastOpenFiles": [
-    "Hardware",
-    "Software Engineering",
-    "Computer Science",
-    "Legal/License.md",
+    "Hardware/Operating Systems/Course Work",
+    "Computer Science/Computer Science Courses.md",
+    "Software Engineering/Software Engineering Courses.md",
+    "Software Engineering/Front-end Development/Intro App Development.md",
+    "Software Engineering/Back-end Development/Intro to Back-end Development.md",
+    "Software Engineering/Back-end Development/Course Work",
+    "Software Engineering/Front-end Development/Course Work",
     "Social Engineering Club.md",
-    "Legal/LICENSE",
-    "Legal"
+    "Computer Science/Intro to Computer Science/Course Work/Collections & Lists.md",
+    "Computer Science/Intro to Computer Science/Course Work/Arrays.md",
+    "Computer Science/Intro to Computer Science/Course Work/Primitives.md",
+    "Computer Science/Intro to Computer Science/Intro CS.md",
+    "Hardware/Digital Hardware Courses.md",
+    "Hardware/Operating Systems/Intro to Operating Systems.md",
+    "Hardware/Build a pc/Build a computer.md",
+    "Computer Science/Algorithms/Course Work",
+    "Computer Science/Dynamic Programming/Course Work",
+    "Computer Science/Dynamic Programming/Intro to Dynamic Programming.md",
+    "Computer Science/Algorithms/Intro to Algorithms.md",
+    "Computer Science/Dynamic Programming",
+    "Computer Science/Algorithms",
+    "Hardware/Build a pc/Course Work",
+    "Hardware/Build a pc/Course Work/Build A Server.md",
+    "Computer Science/Intro to Computer Science/Course Work/Objects & Classes.md",
+    "Computer Science/Intro to Computer Science/Course Work/Functions.md",
+    "Computer Science/Intro to Computer Science/Course Work/Variables.md",
+    "Computer Science/Intro to Computer Science/Course Work",
+    "Legal/Legal.md",
+    "Software Engineering/Back-end Development/Course Work/No-SQL Databases.md",
+    "Software Engineering/Back-end Development",
+    "Hardware/Operating Systems",
+    "Hardware/Build a pc/Course Work/Build a Personal Computer.md",
+    "Legal/License.md"
   ]
 }
