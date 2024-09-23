@@ -32,7 +32,7 @@ We use obsidian and markdown standards to maintain this repository.
 
 ## Collaborate & Contribute
 
-We look forward to collaborating with anyone that intersed. 
+We look forward to collaborating with anyone that is intersed. 
 
 ## Ways to contribute
 
