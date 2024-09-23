@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "f1a1f4a2a15e61fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "3534be8a17441169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dffecc60b6e9bcee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Social Engineering Club.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "71429a7a34e3f493",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e5ebe58f5605497",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9604fff6b046266d",
+    "type": "split",
+    "children": [
+      {
+        "id": "de26bb23cb1f7c97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ea3cc0c0d510e90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c3f373b1e518a77a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dde114768cc69bac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69b1050f0621b2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "395abe989a56dedf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb67cf612de8e0c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Social Engineering Club.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99e63bfee6067591",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Social Engineering Club.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afa0afb76c922645",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbf98e8ea3a61e56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Social Engineering Club.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dffecc60b6e9bcee",
+  "lastOpenFiles": [
+    "Legal/License.md",
+    "Social Engineering Club.md",
+    "Legal/LICENSE",
+    "Legal"
+  ]
+}
