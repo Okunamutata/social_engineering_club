@@ -37,7 +37,7 @@ We look forward to collaborating with anyone that is intersed.
 ## Ways to contribute
 
 - Add new curriculm that isn't currently covered. (e.g. Hardware, Mechanical, Electrical Engineering)
-- Make a pull request a paticular document or subject matter
+- Make a pull request to a paticular document or subject matter
 - Raise an issue with the content.
     - Is there missing context?
     - Are there any mistakes or needed corrections?
