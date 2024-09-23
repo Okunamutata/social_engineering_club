@@ -17,16 +17,16 @@ Feel free to use this as a learning resource and as a way yo share your knowledg
 
 ## Our Goals
 
-1. Share the things and knowlegde we have
-2. Collaborate as we learn new
-3. Build community projects in the open
-4. Aid educators and solo-learners build curricula
+1. Share the experience and knowlegde we have.
+2. Collaborate as we learn new things.
+3. Build community projects in the open.
+4. Aid educators and solo-learners build curricula.
 
 ## Getting Started
 
 We use obsidian and markdown standards to maintain this repository.
-1. Download [Obsidian](https://duckduckgo.com).
-2. Download [Github Desktop](https://desktop.github.com/download/)
+1. Download [Obsidian](https://obsidian.md/download).
+2. Download [Github Desktop](https://desktop.github.com/download)
 3. Clone this repo
 4. Open the directory in Obsidian.
 
