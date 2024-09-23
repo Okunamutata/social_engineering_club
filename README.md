@@ -2,7 +2,7 @@
 
 Welcome! 👋
 
-The `Social Engineering Club` is an open source learning comminity.
+The `Social Engineering Club` is an open source learning community.
 We aim to provide high quality educational engineering material. 
 Educational material covering all facests of enginnering. 
 
